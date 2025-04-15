@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @teiku655
-- 👀 I’m interested in developing my blog
-- 🌱 I’m currently learning vue.js
-- 💞️ I’m looking to collaborate on talking about IT
-- 📫 Please feel free to talk to me
+🧑‍💻 I'm a software engineer.
+🌟 My portfolio: [teiku's portfolio](https://teiku655.github.io/)
 
 <!---
 teiku655/teiku655 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
