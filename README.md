@@ -1,6 +1,5 @@
-🧑‍💻 I'm a software engineer.
-
-🌟 My portfolio: [teiku's portfolio](https://teiku655.github.io/)
+- 🧑‍💻 I'm a software engineer.
+- 🌟 My portfolio: [teiku's portfolio](https://teiku655.github.io/)
 
 <!---
 teiku655/teiku655 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
